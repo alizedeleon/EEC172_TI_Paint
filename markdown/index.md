@@ -1,7 +1,7 @@
 ---
 title: 'TI Paint: Drawing on an OLED'
-author: 'Randi Huang and Alize De Leon (website template by Ryan Tsang)'
-date: 'EEC172 SQ24'
+author: '**Randi Huang and Alize De Leon** (website template by Ryan Tsang)'
+date: '*EEC172 SQ24*'
 
 subtitle: '<blockquote><b>EEC172 Final Project</b><br/>
 Note to current students: this is an <i>example</i> webpage and
