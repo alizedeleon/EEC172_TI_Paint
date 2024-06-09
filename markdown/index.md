@@ -23,7 +23,6 @@ accelerometer. Additionally, the system has remote control interfacing,
 where at the press of a button on the remote, the user is able
 to change the brush type or paint color, clear the canvas, view
 the remote control use instructions, or save the current image.
-the TDS value goes outside thresholds.
 <br/><br/>
 Our source code can be found 
 <!-- replace this link -->
