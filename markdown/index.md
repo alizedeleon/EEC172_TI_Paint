@@ -12,8 +12,16 @@ assignment.<br/>The website source is hosted
 
 toc-title: 'Table of Contents'
 abstract-title: '<h2>Description</h2>'
-abstract: 'TI Paint is designed as a drawing tool that allows its user to paint a picture on an OLED screen by physically moving the accelerometer on a CC3200 LaunchPad. This tool allows options to customize the paintbrush tool as you draw as well as to save the current painting to retrieve the last saved work.
-The tool's main features include movement-controlled drawing, where the movement of the painting cursor on the OLED changes with the maneuvering of the LaunchPad as the program interprets the measurements from an accelerometer. Additionally, the system has remote control interfacing, where at the press of a button on the remote, the user is able to change the brush type or paint color, clear the canvas, view the remote control use instructions, or save the current image.
+abstract: 'TI Paint is designed as a drawing tool that allows its user to paint 
+a picture on an OLED screen by physically moving the accelerometer on a CC3200 
+LaunchPad. This tool allows options to customize the paintbrush tool as you draw
+as well as to save the current painting to retrieve the last saved work.
+The tool's main features include movement-controlled drawing, where the movement
+of the painting cursor on the OLED changes with the maneuvering of the LaunchPad as
+the program interprets the measurements from an accelerometer. Additionally, the 
+system has remote control interfacing, where at the press of a button on the remote, 
+the user is able to change the brush type or paint color, clear the canvas, view the 
+remote control use instructions, or save the current image.
 <br/><br/>
 Our source code can be found 
 <!-- replace this link -->
